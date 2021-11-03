@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 22 15:03:50 2021
-
-@author: DashaEfimova
-"""
 
 import json
 from pymystem3 import Mystem
